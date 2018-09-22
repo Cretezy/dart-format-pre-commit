@@ -20,3 +20,7 @@ You can also only include/exclude some files (defaults to only `.dart`, is a pat
       files: lib/* # Only format source files
       exclude: lib/src/utils.dart # Exclude utils
 ```
+
+## Flutter
+
+Also see [Flutter Format `pre-commit`](https://github.com/Cretezy/flutter-format/pre-commit) for formatting Flutter code.
