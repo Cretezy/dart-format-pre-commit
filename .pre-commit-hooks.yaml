@@ -1,0 +1,5 @@
+-   id: dart-format
+    name: Format Dart Code
+    entry: run
+    language: script
+    files: \.dart$
