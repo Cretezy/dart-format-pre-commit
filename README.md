@@ -23,4 +23,4 @@ You can also only include/exclude some files (defaults to only `.dart`, is a pat
 
 ## Flutter
 
-Also see [Flutter Format `pre-commit`](https://github.com/Cretezy/flutter-format/pre-commit) for formatting Flutter code.
+Also see [Flutter Format `pre-commit`](https://github.com/Cretezy/flutter-format-pre-commit) for formatting Flutter code.
